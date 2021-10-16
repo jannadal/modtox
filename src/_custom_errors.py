@@ -1,0 +1,2 @@
+class RepeatedEmployeeError(Exception):
+    pass
